@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Poppins;
+    src: url("font/Poppins.zip");
+}
+
+* {
+    font-family: Poppins;
+}
+
+.btn {
+    background-color: #1090CB;
+    color: #FFFFFF;
+}
+
+.home-home {
+    color: #1090CB;
+
+}
+
+.heading {
+    color: #1090CB;
+}
+
+.background {
+  background-color: #1090CB1A; /* apni pasand ka color */
+  padding: 50px 0; /* top-bottom spacing */
+}
+
+.bg-back {
+    background-color: #1090CB;
+    color: #FFFFFF;
+}
+
+.bgg-back {
+    background-color: #F4F4F4;
+    color: #252525 !important;
+}
+
+.back-groundd {
+    background-color: #E8F4FA;
+}
