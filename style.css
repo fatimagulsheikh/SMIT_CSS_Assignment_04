@@ -12,6 +12,15 @@
     color: #FFFFFF;
 }
 
+a,
+a:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1090CB !important;
+}
+
 .home-home {
     color: #1090CB;
 
@@ -39,3 +48,4 @@
 .back-groundd {
     background-color: #E8F4FA;
 }
+
